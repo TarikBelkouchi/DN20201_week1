@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarDemo", "VarDemo\VarDemo.csproj", "{695EAE62-1634-4EFB-B5B3-C242F0D83434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695EAE62-1634-4EFB-B5B3-C242F0D83434}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{695EAE62-1634-4EFB-B5B3-C242F0D83434}.Debug|anycpu.Build.0 = Debug|anycpu
+		{695EAE62-1634-4EFB-B5B3-C242F0D83434}.Release|anycpu.ActiveCfg = Release|anycpu
+		{695EAE62-1634-4EFB-B5B3-C242F0D83434}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0226AC6D-C029-4024-B2B5-99D29F9B36DF}
+	EndGlobalSection
+EndGlobal
