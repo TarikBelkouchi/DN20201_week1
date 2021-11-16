@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.810.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarDemo", "VarDemo\VarDemo.csproj", "{695EAE62-1634-4EFB-B5B3-C242F0D83434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomCalculator", "RoomCalculator\RoomCalculator.csproj", "{30AC94B3-98DF-4EA7-9656-F5C669DC48F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionDemo", "ExpressionDemo\ExpressionDemo.csproj", "{B49497FF-40CA-48B1-BBDF-7CC5A7317234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseDemo", "IfElseDemo\IfElseDemo.csproj", "{9CE292E9-8436-4B61-9E6E-21397CC90359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDemo", "LoopDemo\LoopDemo.csproj", "{719619FD-BBD3-4F4D-94C6-42710938F5FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +23,22 @@ Global
 		{695EAE62-1634-4EFB-B5B3-C242F0D83434}.Debug|anycpu.Build.0 = Debug|anycpu
 		{695EAE62-1634-4EFB-B5B3-C242F0D83434}.Release|anycpu.ActiveCfg = Release|anycpu
 		{695EAE62-1634-4EFB-B5B3-C242F0D83434}.Release|anycpu.Build.0 = Release|anycpu
+		{30AC94B3-98DF-4EA7-9656-F5C669DC48F8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{30AC94B3-98DF-4EA7-9656-F5C669DC48F8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{30AC94B3-98DF-4EA7-9656-F5C669DC48F8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{30AC94B3-98DF-4EA7-9656-F5C669DC48F8}.Release|anycpu.Build.0 = Release|anycpu
+		{B49497FF-40CA-48B1-BBDF-7CC5A7317234}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B49497FF-40CA-48B1-BBDF-7CC5A7317234}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B49497FF-40CA-48B1-BBDF-7CC5A7317234}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B49497FF-40CA-48B1-BBDF-7CC5A7317234}.Release|anycpu.Build.0 = Release|anycpu
+		{9CE292E9-8436-4B61-9E6E-21397CC90359}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9CE292E9-8436-4B61-9E6E-21397CC90359}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9CE292E9-8436-4B61-9E6E-21397CC90359}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9CE292E9-8436-4B61-9E6E-21397CC90359}.Release|anycpu.Build.0 = Release|anycpu
+		{719619FD-BBD3-4F4D-94C6-42710938F5FB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{719619FD-BBD3-4F4D-94C6-42710938F5FB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{719619FD-BBD3-4F4D-94C6-42710938F5FB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{719619FD-BBD3-4F4D-94C6-42710938F5FB}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
