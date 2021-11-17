@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseDemo", "IfElseDemo\If
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDemo", "LoopDemo\LoopDemo.csproj", "{719619FD-BBD3-4F4D-94C6-42710938F5FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberAnalyzer", "NumberAnalyzer\NumberAnalyzer.csproj", "{874C2C33-A8DD-4C18-A59F-6EF522C0C006}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -39,6 +41,10 @@ Global
 		{719619FD-BBD3-4F4D-94C6-42710938F5FB}.Debug|anycpu.Build.0 = Debug|anycpu
 		{719619FD-BBD3-4F4D-94C6-42710938F5FB}.Release|anycpu.ActiveCfg = Release|anycpu
 		{719619FD-BBD3-4F4D-94C6-42710938F5FB}.Release|anycpu.Build.0 = Release|anycpu
+		{874C2C33-A8DD-4C18-A59F-6EF522C0C006}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{874C2C33-A8DD-4C18-A59F-6EF522C0C006}.Debug|anycpu.Build.0 = Debug|anycpu
+		{874C2C33-A8DD-4C18-A59F-6EF522C0C006}.Release|anycpu.ActiveCfg = Release|anycpu
+		{874C2C33-A8DD-4C18-A59F-6EF522C0C006}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
