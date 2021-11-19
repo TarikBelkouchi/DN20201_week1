@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumAnalyzer2", "NumAnalyzer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExponentsPowerTable", "ExponentsPowerTable\ExponentsPowerTable.csproj", "{D8E26A1A-AF1D-4889-A72F-546EAAF8303F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodPractice", "MethodPractice\MethodPractice.csproj", "{4157AB01-AA86-4238-AA12-9354FBC2E073}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -80,6 +82,10 @@ Global
 		{D8E26A1A-AF1D-4889-A72F-546EAAF8303F}.Debug|anycpu.Build.0 = Debug|anycpu
 		{D8E26A1A-AF1D-4889-A72F-546EAAF8303F}.Release|anycpu.ActiveCfg = Release|anycpu
 		{D8E26A1A-AF1D-4889-A72F-546EAAF8303F}.Release|anycpu.Build.0 = Release|anycpu
+		{4157AB01-AA86-4238-AA12-9354FBC2E073}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4157AB01-AA86-4238-AA12-9354FBC2E073}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4157AB01-AA86-4238-AA12-9354FBC2E073}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4157AB01-AA86-4238-AA12-9354FBC2E073}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
